@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tiffzny.github.io//al-folio-template-use/sitemap.xml
